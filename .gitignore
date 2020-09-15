@@ -7,7 +7,7 @@ node_modules
 _book
 PAST*
 .idea
-.iml
+*.iml
 __debug_bin
 
 go/A.go
